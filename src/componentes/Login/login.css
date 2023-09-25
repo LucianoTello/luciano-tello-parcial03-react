@@ -1,0 +1,60 @@
+.cuerpo{
+
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-image: url('../../images/fondo2.png');
+    background-size: cover;
+    box-sizing: border-box;
+    width: 100vw;
+    height: 100vh;
+  }
+
+.contenedor{
+
+    width: 800px;
+    align-items: center;
+    justify-content: center;
+    padding: 20px; 
+  }
+  
+  input{
+  
+    width: 80%;
+    height: 30px;
+  
+  }
+  
+  form{ 
+    margin:auto;
+    background: rgb(0,0,0,0.6);
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    text-align: center;
+  
+  }
+  
+  h3{
+  
+    color: white;
+  
+  }
+
+  p{
+    color: red;
+  }
+  
+  button{
+  
+    box-sizing: border-box;
+    height: 30px;
+    width: 35%;
+    margin-left: 20px;
+   }
+  
+  button:hover{
+  
+    background-color: rgb(0,0,0,0.1);
+  }
